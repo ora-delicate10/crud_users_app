@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # crud_users_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# crud_users_app
+>>>>>>> 0cd9f33abe41689349c336b57c3c019f0b16843d
